@@ -1,10 +1,11 @@
 .section-siete {
-  background-image: url(/static/image/image-section-7.png);
+  background-image: url(./static/image/image-section-7.png);
   background-size: 100%;
   background-position: center;
   padding: 200px 20px;
   background-repeat: no-repeat;
   min-height: 280px;
+
 }
 
 .section-siete-cajas {
@@ -42,7 +43,7 @@ img[src="/static/image/Icon-3.png"] {
 
 .section-siete-cajas .caja-cifra,
 .section-siete-cajas .caja-parrafo {
-  color: #fff;
+  color: #000;
 }
 
 .section-siete-cajas .caja-cifra {
